@@ -1,0 +1,7 @@
+{
+  "name": "RxScan",
+  "description": "An intelligent medical prescription scanner tuned for Indian prescriptions. Upload an image to extract structured information, edit the results, export to PDF, and ask general questions to an AI assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
